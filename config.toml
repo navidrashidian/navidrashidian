@@ -1,4 +1,4 @@
-baseurl = "https://www.example.org/"
+baseurl = "https://navidrashidian.github.io/"
 title = "My Site"
 copyright = "Copyright &copy; 2019 - Author Name"
 canonifyurls = true
